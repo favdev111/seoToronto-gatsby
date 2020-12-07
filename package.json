@@ -1,6 +1,6 @@
 {
-  "name": "smakosh.com",
-  "description": "My personal website",
+  "name": "favdev",
+  "description": "fav dev project with gatsby",
   "version": "1.0.0",
   "author": "Ismail Ghallou <ismai23l@hotmail.com>",
   "dependencies": {
@@ -51,7 +51,7 @@
     "yup": "^0.27.0"
   },
   "keywords": [
-    "smakosh",
+    "fav dev",
     "personal",
     "website",
     "blog",

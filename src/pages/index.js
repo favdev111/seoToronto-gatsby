@@ -12,7 +12,7 @@ import { Layout, SEO } from 'components/common'
 
 export default () => (
   <Layout>
-    <SEO title="Hello world!" type="Organization" />
+    <SEO title="seo-toronto" type="Organization" />
     <Intro />
     <Skills />
     <Work />

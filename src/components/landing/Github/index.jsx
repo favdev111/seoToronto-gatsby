@@ -6,13 +6,7 @@ export const Github = () => {
   return (
     <Container>
       <Subtitle>Open Source</Subtitle>
-      <Project
-        icon={GithubIcon}
-        type="Github"
-        link="https://github.com/smakosh"
-        color="#000"
-        github
-      />
+      <Project icon={GithubIcon} type="Github" color="#000" github />
     </Container>
   )
 }

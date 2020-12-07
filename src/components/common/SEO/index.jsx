@@ -138,7 +138,7 @@ export const SEO = ({
           : structuredDataOrganization}
       </script>
       <link rel="publisher" href={socialLinks.google} />
-      <title>{title ? `Smakosh | ${title}` : defaultTitle}</title>
+      <title>{title ? title : defaultTitle}</title>
       {type === 'NewsArticle' && (
         <meta name="twitter:label1" value="Reading time" />
       )}
